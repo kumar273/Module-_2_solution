@@ -1,0 +1,249 @@
+
+@media only screen and (max-width: 767px){
+
+
+h1{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 2.5em;
+   
+    border: 1px solid black;
+    width: 180px;
+    color: black;
+    text-shadow: black;
+    position: relative;
+    left: 30%;
+    margin-top: 30px;
+    
+    
+}
+section{
+    width: 100%;
+
+    
+    
+
+}
+.box{
+    
+    padding: 10px;
+    margin: 20px;
+    background-color: #f3f3f3;
+    color:brown;
+    
+}
+.box1{
+    
+    padding: 10px;
+    margin: 20px;
+    background-color: #f3f3f3;
+    color:brown;
+    
+}
+
+.heading1{
+    border: 1px solid black;
+    width: 100px; 
+    text-align: center;
+    background-color: pink;
+    position: relative;
+    bottom:25px;
+    left: 70%;
+    
+}
+
+.heading2{
+    border: 1px solid black;
+    width: 100px; 
+    text-align: center;
+    background-color:blue;
+    color: white;
+    position: relative;
+    bottom:25px;
+    left: 70%;
+    color: white;
+    
+    
+}
+
+.heading3{
+    border: 1px solid black;
+    width: 100px;
+    text-align: center;
+    background-color: green;
+    position: relative;
+    bottom:25px;
+    left: 70%;
+    color: whitesmoke;
+    
+}
+p{
+            
+    font-size: 1.5em;
+    color: black;
+    margin-top: 5px;
+}
+}
+@media(min-width: 768px) and (max-width: 991px){
+    .box{
+      
+        padding: 10px;
+        margin: 20px;
+        background-color:#f3f3f3;  
+    
+          
+    }
+    .sp{
+        position: relative;
+        bottom: 10%;
+    }
+    .box1{
+        
+        padding: 10px;
+        margin: 20px;
+        background-color:#f3f3f3;  
+        width: 188% !important;
+        
+          
+
+    }
+    h1{
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        position: relative;
+        left: 42%;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        
+        color: black;
+        width: 200px;
+        font-size: 2.5em;
+    }
+    section{
+        display: grid;
+        grid-template-columns: 50% 50%;
+        
+    }
+    .heading1{
+        border: 1px solid black;
+        width: 100px;
+        
+        text-align: center;
+        background-color: pink;
+        position: relative;
+        bottom:25px;
+        left: 59%;
+        
+    }
+    
+    .heading2{
+        border: 1px solid black;
+        width: 100px; 
+        text-align: center;
+        background-color:blue;
+        color: white;
+        position: relative;
+        bottom:25px;
+        left: 59%;
+        
+        
+    }
+    
+    .heading3{
+        border: 1px solid black;
+        width: 100px; 
+        text-align: center;
+        background-color:green;
+        position: relative;
+        bottom:25px;
+        left: 87%;
+        
+        color: whitesmoke;
+        
+    }
+
+
+
+}
+
+@media only screen and (min-width: 992px){
+    h1{
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        position: relative;
+        left: 42%;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        
+        color: black;
+        width: 200px;
+        font-size: 2.5em;
+    }
+        .box{
+            
+            padding: 10px;
+            margin: 20px;
+            background-color:#f3f3f3; 
+           
+               
+        }
+        .box1{
+         
+            padding: 10px;
+            margin: 20px;
+            background-color:#f3f3f3;     
+        }
+        section{
+            width: 100%;
+            display: flex;
+        }
+        .heading1{
+            border: 1px solid black;
+            width: 100px;
+            
+            text-align: center;
+            background-color: pink;
+            position: relative;
+            bottom:25px;
+            left: 70%;
+            
+        }
+        
+        .heading2{
+            border: 1px solid black;
+            width: 100px; 
+            text-align: center;
+            background-color:blue;
+            color: white;
+            position: relative;
+            bottom:25px;
+            left: 70%;
+            
+            
+        }
+        
+        .heading3{
+            border: 1px solid black;
+            width: 100px; 
+            text-align: center;
+            background-color:green;
+            position: relative;
+            bottom:25px;
+            left: 70%;
+            
+            color: whitesmoke;
+            
+        }
+        p{
+            
+            font-size: 1.5em;
+            color: black;
+            margin-top: 5px;
+        }
+        
+        
+    
+
+}
+
